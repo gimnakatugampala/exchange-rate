@@ -95,4 +95,7 @@ button:focus {
   .currency input {
     width: 200px;
   }
+  h1 {
+    font-size: 20px;
+  }
 }
